@@ -1,0 +1,27 @@
+[submodule "plasma6/globalthemes/carl"]
+	path = plasma6/globalthemes/carl
+	url = https://gitlab.com/jomada/carl
+[submodule "plasma6/globalthemes/edna"]
+	path = plasma6/globalthemes/edna
+	url = https://gitlab.com/jomada/edna.git
+[submodule "plasma6/globalthemes/Edna-Light"]
+	path = plasma6/globalthemes/Edna-Light
+	url = https://gitlab.com/jomada/Edna-Light
+[submodule "plasma6/globalthemes/Itchy"]
+	path = plasma6/globalthemes/Itchy
+	url = https://gitlab.com/jomada/Itchy
+[submodule "plasma6/globalthemes/Lenny"]
+	path = plasma6/globalthemes/Lenny
+	url = https://gitlab.com/jomada/Lenny
+[submodule "plasma6/globalthemes/Scratchy"]
+	path = plasma6/globalthemes/Scratchy
+	url = https://gitlab.com/jomada/Scratchy
+[submodule "plasma6/widgets/plasma6-desktop-indicator"]
+	path = plasma6/widgets/plasma6-desktop-indicator
+	url = https://github.com/dhruv8sh/plasma6-desktop-indicator
+[submodule "plasma6/widgets/shutdown_or_switch"]
+	path = plasma6/widgets/shutdown_or_switch
+	url = https://github.com/Davide-sd/shutdown_or_switch
+[submodule "plasma6/widgets/plasma6-window-title-applet"]
+	path = plasma6/widgets/plasma6-window-title-applet
+	url = https://github.com/dhruv8sh/plasma6-window-title-applet
